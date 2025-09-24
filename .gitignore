@@ -1,0 +1,14 @@
+# 编译文件
+*.o
+*.ko.cmd
+*.c.swp
+*.mod.cmd
+*.mod.o.cmd
+*.cmd
+*.ko
+*.mod
+*.mod.c
+*.symvers
+*.order
+# .vscode文件
+.vscode/
